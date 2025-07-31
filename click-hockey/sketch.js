@@ -16,7 +16,7 @@ function draw() {
     background(222);
 
     // draw goal
-    fill(0, 255 0);
+    fill(0, 255, 0);
     rect(250, 490, 60, 20);
 
     // draw ball

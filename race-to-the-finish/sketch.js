@@ -29,7 +29,7 @@ function draw() {
     text(blueScore, 800, 225);
 
     // show finish line
-    line(600, 0 600, 300);
+    line(600, 0, 600, 300);
 
     // red ball
     fill(255, 0, 0);
